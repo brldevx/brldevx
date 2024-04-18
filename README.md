@@ -6,8 +6,6 @@
 
 👯 I’m looking to collaborate on open source/commercial projects
 
-💬 Ask me about **Web Development**
-
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
 ![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
